@@ -83,7 +83,7 @@ Design a GDPR- and AI Act-compliant, scalable LLM-based SaaS architecture for "E
 | **Monitoring**| OpenTelemetry + Prometheus (p95, € per call, prompt length tracking) |
 
 
-
+------------------------------------------------------------
 
 # 🔧 Module 2: Tech Stack Proposal (Updated for 2025 Brief)
 
